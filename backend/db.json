@@ -1,14 +1,24 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Paulo Alves",
-      "email": "paulo@teste.com"
+      "name": "José da Silva",
+      "email": "jose_silva@teste.com",
+      "id": 1
     },
     {
-      "id": 2,
+      "name": "Maria dos Santos",
+      "email": "maria_santos@teste.com",
+      "id": 2
+    },
+    {
+      "name": "Paulo Alves",
+      "email": "paulo_alves@teste.com",
+      "id": 3
+    },
+    {
       "name": "Isadora Maria",
-      "email": "isadora@teste.com"
+      "email": "isadora_maria@teste.com",
+      "id": 4
     }
   ]
 }
