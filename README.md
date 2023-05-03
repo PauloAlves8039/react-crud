@@ -3,11 +3,14 @@
 ## :computer: Projeto
 
 <p style='text-align: justify;'>
-Repositório de uma aplicação web para utilização de um CRUD básico,
-o projeto teve seu código fonte desenvolvido com base no curso [Curso Web Moderno com JavaScript 2021 COMPLETO + Projetos](https://www.udemy.com/course/curso-web/).
+
+Repositório de uma aplicação web para utilização de um CRUD básico, o projeto teve seu código fonte desenvolvido com base no curso
+[Web Moderno com JavaScript 2021 COMPLETO + Projetos](https://www.udemy.com/course/curso-web/l)
+
 </p>
 
 <p style='text-align: justify;'>
+
 Essa aplicação disponibiliza funcionalidades para inserir, buscar, atualziar e excluir registros de usuários implementados em uma base de dados criada com 
 [JSON Server](https://github.com/typicode/json-server) no projeto backend, já no frontend foi aplicado o uso da biblioteca [React.js](https://pt-br.reactjs.org/) 
 onde através de requisções HTTP com o [Axios](https://github.com/axios/axios) é realizada uma comunição entre os projetos, também foi inserida a utilização de 
